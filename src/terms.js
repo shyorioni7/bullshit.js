@@ -447,6 +447,7 @@ export default [
     'technolog(y|ies)',
     'that being said',
     'thought.leader',
+    'thought.leadership',
     'throughput',
     'time.to.awesome',
     'time.to.market',
